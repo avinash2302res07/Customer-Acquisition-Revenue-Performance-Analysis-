@@ -23,3 +23,10 @@ By identifying the top-performing channels, the business can make data-driven de
 * **python_analysis/:**  Jupyter Notebook (.ipynb) with all the data cleaning and analysis code.
 * **powerbi_dashboard/:** Holds the final Power BI project file (.pbix).
 * **images/:** Stores screenshots of the final dashboard for easy viewing
+  
+# 📊 Key Findings & Recommendations :
+After a thorough analysis, the following key insights were uncovered:
+* **Facebook Ads** generated a higher total revenue despite acquiring a similar number of new customers as Google Ads.
+  This indicates that customers acquired through Facebook have a higher average order value.
+* **Email campaigns** consistently showed a strong conversion rate, suggesting that this channel attracts a highly engaged audience.
+**Based on these findings, it is recommended to:**
